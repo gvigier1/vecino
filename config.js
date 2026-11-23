@@ -1,2 +1,2 @@
 // Adresse de l API miPTY (serveur Neuralytic, derriere nginx)
-window.MIPTY_API = "https://modify-showcase-nextel-defence.trycloudflare.com";
+window.MIPTY_API = "https://leave-juan-relief-manually.trycloudflare.com";
